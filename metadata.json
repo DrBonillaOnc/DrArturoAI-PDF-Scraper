@@ -1,0 +1,5 @@
+{
+  "name": "PDF Link Scraper & Zipper",
+  "description": "An agent that scrapes a web page for PDF links, downloads the files, and bundles them into a single zip file for easy download.",
+  "requestFramePermissions": []
+}
